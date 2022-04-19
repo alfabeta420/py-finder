@@ -516,4 +516,4 @@ async def on_command_error(ctx, error):
 
 
 # Login to the bot
-client.run("OTYzNzI0OTMwNTYwNzEyNzQ0.YlaQyA.IAEZIAjWhGCBglKfmKxUpttccW4")
+client.run("token")
