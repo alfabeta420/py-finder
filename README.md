@@ -23,8 +23,4 @@
     • sqlite3<br>
     • asyncio<br>
     <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>
-    <img src="https://cdn.kurwa.club/files/LXGK8.png"><br>
-    <img src="https://i.imgur.com/DwVIgrh.gif"><br><br>
-    <img src="https://cdn.kurwa.club/files/4ZyDj.png"><br>
-    <img src="https://i.imgur.com/DwVIgrh.gif">
 </p>
