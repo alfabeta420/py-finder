@@ -12,9 +12,9 @@
     • cfx.re/join/xxxxxx<br>
     • xxxxxx<br>
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
-    Download: <a href="https://github.com/bremu45/py-finder/releases/download/py-finder/py-finder.zip">here</a><br>
-    Source: <a href="https://raw.githubusercontent.com/bremu45/py-finder/main/main.py">here</a><br>
-    Python 3: <a href="https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe">here</a><br>
+    Download: <a href="https://github.com/alfabeta420/py-finder/releases/download/py-finder/py-finder.zip">here</a><br>
+    Source: <a href="https://raw.githubusercontent.com/alfabeta420/py-finder/main/main.py">here</a><br>
+    Python 3: <a href="https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe">here</a><br>
     <img src="https://i.imgur.com/DwVIgrh.gif"><br>
     Requirements:<br>
     • discord<br>
